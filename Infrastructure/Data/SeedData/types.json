@@ -1,0 +1,18 @@
+[
+  {
+    "Id": 1,
+    "Name": "Mother Boards"
+  },
+  {
+    "Id": 2,
+    "Name": "Processors"
+  },
+  {
+    "Id": 3,
+    "Name": "Ram"
+  },
+  {
+    "Id": 4,
+    "Name": "Cases"
+  }
+]

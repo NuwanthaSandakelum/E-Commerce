@@ -1,0 +1,146 @@
+[
+  {
+    "Name": "MSI Motherboard 1",
+    "Description": "Lorem ipsum dolor sit amet, consectetuer adipiscing elit. Maecenas porttitor congue massa. Fusce posuere, magna sed pulvinar ultricies, purus lectus malesuada libero, sit amet commodo magna eros quis urna.",
+    "Price": 200,
+    "PictureUrl": "images/products/mb-msi1.png",
+    "ProductTypeId": 1,
+    "ProductBrandId": 1
+  },
+  {
+    "Name": "MSI Motherboard 2",
+    "Description": "Nunc viverra imperdiet enim. Fusce est. Vivamus a tellus.",
+    "Price": 150,
+    "PictureUrl": "images/products/mb-msi2.png",
+    "ProductTypeId": 1,
+    "ProductBrandId": 1
+  },
+  {
+    "Name": "ASUS Motherboard 1",
+    "Description": "Suspendisse dui purus, scelerisque at, vulputate vitae, pretium mattis, nunc. Mauris eget neque at sem venenatis eleifend. Ut nonummy.",
+    "Price": 180,
+    "PictureUrl": "images/products/mb-asus1.png",
+    "ProductTypeId": 1,
+    "ProductBrandId": 2
+  },
+  {
+    "Name": "ASUS Motherboard 2",
+    "Description": "Pellentesque habitant morbi tristique senectus et netus et malesuada fames ac turpis egestas. Proin pharetra nonummy pede. Mauris et orci.",
+    "Price": 300,
+    "PictureUrl": "images/products/mb-asus2.png",
+    "ProductTypeId": 1,
+    "ProductBrandId": 2
+  },
+  {
+    "Name": "GigaByte Motherboard 1",
+    "Description": "Lorem ipsum dolor sit amet, consectetuer adipiscing elit. Maecenas porttitor congue massa. Fusce posuere, magna sed pulvinar ultricies, purus lectus malesuada libero, sit amet commodo magna eros quis urna.",
+    "Price": 250,
+    "PictureUrl": "images/products/mb-gigabyte1.png",
+    "ProductTypeId": 1,
+    "ProductBrandId": 3
+  },
+  {
+    "Name": "GigaByte Motherboard 2",
+    "Description": "Aenean nec lorem. In porttitor. Donec laoreet nonummy augue.",
+    "Price": 120,
+    "PictureUrl": "images/products/mb-gigabyte2.png",
+    "ProductTypeId": 1,
+    "ProductBrandId": 3
+  },
+  {
+    "Name": "Intel Processor 1",
+    "Description": "Fusce posuere, magna sed pulvinar ultricies, purus lectus malesuada libero, sit amet commodo magna eros quis urna.",
+    "Price": 320,
+    "PictureUrl": "images/products/pro-intel1.png",
+    "ProductTypeId": 2,
+    "ProductBrandId": 4
+  },
+  {
+    "Name": "Intel Processor 2",
+    "Description": "Suspendisse dui purus, scelerisque at, vulputate vitae, pretium mattis, nunc. Mauris eget neque at sem venenatis eleifend. Ut nonummy.",
+    "Price": 275,
+    "PictureUrl": "images/products/pro-intel2.png",
+    "ProductTypeId": 2,
+    "ProductBrandId": 4
+  },
+  {
+    "Name": "AMD Processor 1",
+    "Description": "Fusce posuere, magna sed pulvinar ultricies, purus lectus malesuada libero, sit amet commodo magna eros quis urna.",
+    "Price": 300,
+    "PictureUrl": "images/products/pro-amd1.png",
+    "ProductTypeId": 2,
+    "ProductBrandId": 5
+  },
+  {
+    "Name": "AMD Processor 2",
+    "Description": "Nunc viverra imperdiet enim. Fusce est. Vivamus a tellus.",
+    "Price": 150,
+    "PictureUrl": "images/products/pro-amd2.png",
+    "ProductTypeId": 2,
+    "ProductBrandId": 5
+  },
+  {
+    "Name": "Kingston RAM 1",
+    "Description": "Pellentesque habitant morbi tristique senectus et netus et malesuada fames ac turpis egestas. Proin pharetra nonummy pede. Mauris et orci.",
+    "Price": 120,
+    "PictureUrl": "images/products/ram-kingston1.png",
+    "ProductTypeId": 3,
+    "ProductBrandId": 6
+  },
+  {
+    "Name": "Kingston RAM 2",
+    "Description": "Lorem ipsum dolor sit amet, consectetuer adipiscing elit. Maecenas porttitor congue massa.",
+    "Price": 100,
+    "PictureUrl": "images/products/ram-kingston2.png",
+    "ProductTypeId": 3,
+    "ProductBrandId": 6
+  },
+  {
+    "Name": "GSkill RAM 1",
+    "Description": "Pellentesque habitant morbi tristique senectus et netus et malesuada fames ac turpis egestas. Proin pharetra nonummy pede. Mauris et orci.",
+    "Price": 75,
+    "PictureUrl": "images/products/ram-gskill1.png",
+    "ProductTypeId": 3,
+    "ProductBrandId": 7
+  },
+  {
+    "Name": "GSkill RAM 2",
+    "Description": "Suspendisse dui purus, scelerisque at, vulputate vitae, pretium mattis, nunc. Mauris eget neque at sem venenatis eleifend. Ut nonummy.",
+    "Price": 125,
+    "PictureUrl": "images/products/ram-gskill2.png",
+    "ProductTypeId": 3,
+    "ProductBrandId": 7
+  },
+  {
+    "Name": "Case MSI 1",
+    "Description": "Lorem ipsum dolor sit amet, consectetuer adipiscing elit. Maecenas porttitor congue massa. Fusce posuere, magna sed pulvinar ultricies, purus lectus malesuada libero, sit amet commodo magna eros quis urna.",
+    "Price": 189.99,
+    "PictureUrl": "images/products/case-msi1.png",
+    "ProductTypeId": 4,
+    "ProductBrandId": 1
+  },
+  {
+    "Name": "Case MSI 2",
+    "Description": "Pellentesque habitant morbi tristique senectus et netus et malesuada fames ac turpis egestas. Proin pharetra nonummy pede. Mauris et orci.",
+    "Price": 199.99,
+    "PictureUrl": "images/products/case-msi2.png",
+    "ProductTypeId": 4,
+    "ProductBrandId": 1
+  },
+  {
+    "Name": "Case ASUS 1",
+    "Description": "Aenean nec lorem. In porttitor. Donec laoreet nonummy augue.",
+    "Price": 275,
+    "PictureUrl": "images/products/case-asus1.png",
+    "ProductTypeId": 4,
+    "ProductBrandId": 2
+  },
+  {
+    "Name": "Case ASUS 2",
+    "Description": "Suspendisse dui purus, scelerisque at, vulputate vitae, pretium mattis, nunc. Mauris eget neque at sem venenatis eleifend. Ut nonummy.",
+    "Price": 130,
+    "PictureUrl": "images/products/case-asus2.png",
+    "ProductTypeId": 4,
+    "ProductBrandId": 2
+  }
+]
