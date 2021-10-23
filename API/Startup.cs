@@ -30,7 +30,13 @@ namespace API
             
             services.AddApplicationServices();
             services.AddSwaggerDocumentation();
-            
+            services.AddCors(opt =>
+            {
+                opt.AddPolicy("CorsPolicy", policy =>
+                {
+                    policy.AllowAnyHeader().AllowAnyMethod().WithOrigins("https://localhost:4200");
+                });
+            });
 
         }
 
@@ -38,9 +44,6 @@ namespace API
         public void Configure(IApplicationBuilder app, IWebHostEnvironment env)
         {
            
-            //app.UseSwagger();
-            //app.UseSwaggerUI(c => c.SwaggerEndpoint("/swagger/v1/swagger.json", "API v1"));
-            
             app.UseMiddleware<ExceptionMiddleware>();
             app.UseStatusCodePagesWithReExecute("/errors/{0}");
 
@@ -48,6 +51,8 @@ namespace API
 
             app.UseRouting();
             app.UseStaticFiles();
+
+            app.UseCors("CorsPolicy");
 
             app.UseAuthorization();
 
